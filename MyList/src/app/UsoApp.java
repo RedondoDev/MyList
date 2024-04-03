@@ -9,7 +9,6 @@ public class UsoApp {
 	public static void main(String[] args) {
 
 		// CREACIÓN DEL ADMIN Y AGREGACIÓN A LA LISTA DE USUARIOS
-		//Todo hecho por Tymur. De nada :)
 		ArrayList<Usuario> usuarios = new ArrayList<Usuario>();
 		usuarios.add(new Administrador("Javi", 0, "Admin"));
 
