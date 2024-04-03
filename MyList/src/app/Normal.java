@@ -176,6 +176,8 @@ public class Normal extends Usuario {
 					System.out.println("\nNo hay ningún recurso con ese nombre.\n");
 				}
 				break;
+			case '2':
+				break;
 			default:
 				System.out.println("Opción inválida. Inténtelo de nuevo.\n");
 			}
